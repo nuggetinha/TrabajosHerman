@@ -12,4 +12,7 @@ print("\nLectura vertical (todos en una sola línea):")
 for columna in range(3):
     for fila in range(3):
         print(matriz[fila][columna], end=" ")
+
 print()  # Nueva línea al final
+
+#Tarea para Lunes 08/09/2025
